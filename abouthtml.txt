@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Girls Rock Detroit</title>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+
+
+
+
+<!--
+retina, a free CSS web template by ZyPOP (zypopwebtemplates.com/)
+
+Download: http://zypopwebtemplates.com/
+
+License: Creative Commons Attribution
+//-->
+
+</head>
+
+<body>
+
+	<section id="body" class="width">
+
+		<section id="content" class="column-left">
+				<div  style="width:100%;text-align:center;"><a href="index.html"><img src="images/logo.png"></a>
+				<hr style="margin-top:5px;">
+					<div style="display:inline-block;">
+						<h5>Creative Expression</h5></div>
+						<div style="display:inline-block;">
+						<h5> | Positive Self-Esteem | </h5></div>
+						<div style="display:inline-block;">
+						<h5>Community Awareness</h5>
+				
+					</div>
+				<hr>
+			</div>
+					
+			<article>
+
+		
+		<img style="border:1px solid black;" src="images/WillieMae/10330798515_366aa27c57_z.jpg"/>
+		<h3>About the Camp</h3>
+		<p>In the summer of 2015, <em>Girls Rock Detroit</em> will offer its first week-long summer camp for girls and female-identifying youth ages 8 to 16. Through the course of the week, the campers, many of whom have no formal musical experience, will receive instrument instruction, form bands and write their own original songs.</p>
+		<p>In addition to song-writing, the girls will attend workshops about a variety of subjects and view an interactive performance by a local female artist or band at the end of each day. The camp week concludes with a concert showcasing the original music of each of the bands at a local music venue.</p>
+		<p><em>Girls Rock Detroit</em> is a safe, positive space filled with supportive role-models. Campers are mentored in an empowering all-female environment filled with seasoned musicians, educators and activists.</p>
+		<p>We offer full and partial scholarships for qualifying campers.</p>
+
+		
+
+
+	
+	</article>
+					
+		</section>
+		<aside id="sidebar" class="column-right">
+		<nav id="mainnav">
+			<ul>
+				<li class="selected-item"><a href="index.html">Home</a></li>
+				<li><a href="mission.html">Our Mission</a></li>
+				<li><a href="day.html">A Day at Camp</a></li>
+				<li><a href="apply_camp.html">Apply to Camp</a></li>
+				<li><a href="volunteer.html">Volunteer</a></li>
+				<li><a href="signup.html">Mailing List</a></li>
+				<li><a href="day.html">About Us</a></li>
+				
+			</ul>
+		</nav>
+
+		
+		<div class="responsive-sidebar-hide block">
+		<h3>Contact us</h3>
+			<p class="text-block">
+			<a href="mailto:info@girlsrockdetroit.org"><img src="images/email.png"/></a>&nbsp;
+			<a href="https://www.facebook.com/GirlsRockDetroit"><img src="images/FB-f-Logo__white_50.png"/></a>
+			</p>
+		</div>
+
+		
+
+		
+
+		<div class="responsive-buttons">
+			<a href="#" id="show-sidebar-button">Show sidebar</a>
+		</div>
+
+		<footer class="responsive-sidebar-hide">
+			<p>&copy; 2014 Girls Rock Detroit. <a href="http://zypopwebtemplates.com/">Free CSS Templates</a> by ZyPOP</p>
+		</footer>
+
+		</aside>
+		<div class="clear"></div>
+
+	</section>
+	
+
+</body>
+</html>
